@@ -1,15 +1,15 @@
 {
   "name": "BlinkLabel",
   "version": "0.1.0",
-  "summary": "A short description of BlinkLabel.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "A subclass on UILabel that provides a blink.",
+  "description": "The description is shorter than the summary.",
   "homepage": "https://github.com/pro648/BlinkLabel",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "pro648": "AugSpan@gmail.com"
+    "pro648": "example@example.com"
   },
   "source": {
     "git": "https://github.com/pro648/BlinkLabel.git",
@@ -18,5 +18,6 @@
   "platforms": {
     "ios": "8.0"
   },
+  "swift_version": "4.0",
   "source_files": "BlinkLabel/Classes/**/*"
 }
