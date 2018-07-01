@@ -1,0 +1,22 @@
+{
+  "name": "BlinkLabel",
+  "version": "0.1.0",
+  "summary": "A short description of BlinkLabel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/pro648/BlinkLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pro648": "AugSpan@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/pro648/BlinkLabel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BlinkLabel/Classes/**/*"
+}

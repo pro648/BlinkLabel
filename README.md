@@ -22,7 +22,7 @@ pod 'BlinkLabel'
 
 ## Author
 
-pro648, AugSpan@gmail.com
+[pro648](https://github.com/pro648)
 
 ## License
 

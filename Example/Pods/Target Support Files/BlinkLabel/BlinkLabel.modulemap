@@ -1,0 +1,6 @@
+framework module BlinkLabel {
+  umbrella header "BlinkLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

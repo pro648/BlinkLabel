@@ -28,7 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		080CA40CC2A3B8918F8768AE /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		080CA40CC2A3B8918F8768AE /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		2C552F1EBE0BE2722FAF4852 /* Pods-BlinkLabel_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BlinkLabel_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BlinkLabel_Tests/Pods-BlinkLabel_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* BlinkLabel_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BlinkLabel_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -43,8 +43,8 @@
 		71F8687B09E4A01A5FA1CFDE /* Pods-BlinkLabel_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BlinkLabel_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-BlinkLabel_Tests/Pods-BlinkLabel_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		9811D70AB84F0FF7169861BC /* Pods_BlinkLabel_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BlinkLabel_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FEE697C27B907FDA5D9AC6F /* Pods_BlinkLabel_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BlinkLabel_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		AD8E33ACF7EFFDD437947259 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		D66DE9B7228EF2574DC55CD1 /* BlinkLabel.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = BlinkLabel.podspec; path = ../BlinkLabel.podspec; sourceTree = "<group>"; };
+		AD8E33ACF7EFFDD437947259 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		D66DE9B7228EF2574DC55CD1 /* BlinkLabel.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = BlinkLabel.podspec; path = ../BlinkLabel.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E0A649BC393C73C972286A74 /* Pods-BlinkLabel_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BlinkLabel_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-BlinkLabel_Example/Pods-BlinkLabel_Example.release.xcconfig"; sourceTree = "<group>"; };
 		FF1BB322DCA0A9F47D67E748 /* Pods-BlinkLabel_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BlinkLabel_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BlinkLabel_Example/Pods-BlinkLabel_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
